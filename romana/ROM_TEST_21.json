@@ -1,0 +1,115 @@
+{
+  "id": "ROM_TEST_21",
+  "title": "TESTUL 21 - Limba și Literatura Română",
+  "subtitle": "Filiera teoretică - Profilul real; Filiera tehnologică",
+  "subject_1": {
+    "title": "SUBIECTUL I (50 de puncte)",
+    "text_support": "«««Imaginea tatălui meu - spune regina - rămâne nemuritoare în amintirile fiecărei ore. Când îmi amintesc de copilărie, încă mă agăţ de el. Nu pot să întorc capul spre trecut fără să îl văd. Dau la o parte crengile copacilor mari, care înconjoară casa noastră de vară. Zăresc casa mare şi albă strălucind în mijlocul frunzişului şi sunt gata să alerg de la o fereastră deschisă la alta și să arunc o privire nerăbdătoare în fiecare cameră cunoscută, dar există o fereastră unde mereu trebuie să mă opresc, un loc de care privirea mea rămâne înlănțuită. Fereastra tatălui meu, camera tatălui meu! Parcă îl văd cum stă acolo. Pe genunchi sau pe o carte deschisă, îşi schimbă mâinile subţiri şi albăstrui, dar priveşte departe sau se uită adânc în ochii mei. Imaginea tatălui meu îmi umple tot trecutul. Era atât de învățat, încât știa multe lucruri extraordinare, care pe omul ignorant îl fac să ridice din umeri și să râdă. Credea în miracole fiindcă, pentru el, și creația, şi omenirea erau miracole. Simţea smerenie și uluire în faţa puterii vieții și a puterii lui Dumnezeu. [...] La amurg, pădurea măreață încerca să adoarmă și să uite de apusul soarelui. Atunci, tata mă chema lângă el și îmi vorbea. Îi priveam chipul palid devenind din ce în ce mai alb, ca un râu rece deasupra căruia răsare luna. [...] Ce bine se putea observa că tatăl meu, visător şi plăpând, provenea dintr-un neam străvechi, care îşi completa astfel, cu o ființă plină de gânduri şi vise, lunga descendență a celor distinși prin acţiuni mărețe și fapte de vitejie. Ochii lui albaştri, gesturile grațioase și flexibile ca de trestie arătau că provenea din acele vechi familii de la graniță, care întruchipează în membrii lor toată puterea şi farmecul Rinului natal. Până şi sufletul lui se asemăna, prin frumusețe și vigoare, cu dealurile blânde, încununate cu viță-de-vie, ale căror linii armonioase se reflectau în râul sclipitor. Tatăl meu a fost un adevărat prinț renan, nu unul dintre aceia pe care istoria adoră să-l celebreze, adică stăpâni dornici să cucerească și să posede, ci un prinț care îşi dorea împărăţia cerului mai mult decât orice bine pământesc sau ambiții lumești. Într-un ținut în care trecutul supraviețuiește doar sub forma orizontului și a oraşelor răspândite printre dealuri, el era ca ultima rămășiță a acelui trecut, iar pe vârful sufletului său purta florile supreme, al căror parfum suav se acumulase de-a lungul a generații de eroi. În vastul domeniu al gândirii, el a produs ceea ce strămoşii lui produseseră în domeniul acțiunii.»»»\n(Elena Văcărescu, Regi și regine pe care i-am cunoscut)",
+    "questions": [
+      {
+        "id": "1A_1",
+        "text": "1. Indică sensul din text al secvenței 'să arunc o privire' și al cuvântului 'gândirii'.",
+        "options": [
+          "Secvența semnifică a privi rapid sau fugar, iar 'gândirii' se referă la activitatea intelectuală sau sfera ideilor.",
+          "Secvența se referă la gestul fizic de a arunca un obiect, iar 'gândirii' la procesul de memorare.",
+          "Secvența înseamnă a ignora un peisaj, iar 'gândirii' se referă la imaginație poetică.",
+          "Secvența indică o cercetare amănunțită, iar 'gândirii' se referă la starea de melancolie."
+        ],
+        "correct": 0
+      },
+      {
+        "id": "1A_2",
+        "text": "2. Menţionează cine realizează descrierea tatălui său în text.",
+        "options": [
+          "Descrierea este realizată de Elena Văcărescu, vorbind despre propria familie.",
+          "Descrierea este făcută de regină (Carmen Sylva), amintindu-și de tatăl său.",
+          "Tatăl se autocaracterizează în cadrul dialogurilor cu fiica sa.",
+          "Un narator omniscient care prezintă viața la curtea regală."
+        ],
+        "correct": 1
+      },
+      {
+        "id": "1A_3",
+        "text": "3. Precizează două elemente particulare ale casei de vară descrise, justificându-ți răspunsul cu o secvență semnificativă.",
+        "options": [
+          "Casa este modestă și întunecată: 'pădurea măreață încerca să adoarmă'.",
+          "Casa este impunătoare și înconjurată de vegetație: 'casa mare şi albă strălucind în mijlocul frunzişului'.",
+          "Locuința este situată în centrul orașului: 'orașelor răspândite printre dealuri'.",
+          "Casa de vară este o ruină străveche: 'ultima rămășiță a acelui trecut'."
+        ],
+        "correct": 1
+      },
+      {
+        "id": "1A_4",
+        "text": "4. Explică emoțiile pe care fiica le simte în timpul dialogurilor cu tatăl său.",
+        "options": [
+          "Fiica simte teamă și distanțare față de tatăl ei autoritar.",
+          "Fiica trăiește un sentiment de admirație profundă și fascinație, considerându-l un om foarte învățat.",
+          "Ea simte plictiseală în fața poveștilor despre miracole ale tatălui.",
+          "Fiica simte regretul că tatăl ei nu a fost un cuceritor faimos în istorie."
+        ],
+        "correct": 1
+      },
+      {
+        "id": "1A_5",
+        "text": "5. Prezintă, în 30-50 de cuvinte, viziunea prințului asupra vieții, aşa cum reiese din raportarea la strămoşii săi.",
+        "options": [
+          "Prințul respinge tradiția strămoșilor săi, preferând o viață simplă și izolată.",
+          "Viziunea lui este una spirituală; el continuă noblețea strămoșilor (eroi în acțiune) prin intermediul gândirii și al valorilor morale.",
+          "Prințul consideră că bogăția materială este singura modalitate de a onora trecutul familiei.",
+          "El crede că viața este un miracol doar dacă este marcată de fapte de vitejie și lupte."
+        ],
+        "correct": 1
+      }
+    ]
+  },
+  "subject_1_b": {
+    "title": "SUBIECTUL I, B - Text Argumentativ",
+    "instruction": "Redactează un text de minimum 150 de cuvinte, în care să argumentezi dacă relația cu strămoşii/rădăcinile are sau nu un rol constructiv în viaţa unui om, raportându-te atât la textul Elenei Văcărescu, cât și la experiența personală sau culturală.",
+    "content": [
+      { "type": "text", "value": "&nbsp;&nbsp;&nbsp;&nbsp;Opinia mea este că relația cu strămoșii și cunoașterea rădăcinilor familiale " },
+      { "type": "select", "options": ["nu au nicio importanță pentru omul modern", "reprezintă un fundament esențial în construcția identității", "sunt doar o povară care limitează libertatea", "ar trebui ignorate pentru a evolua"], "correct": 1 },
+      { "type": "text", "value": ", oferind repere morale și un sentiment de continuitate.\n\n&nbsp;&nbsp;&nbsp;&nbsp;În primul rând, raportându-mă la textul Elenei Văcărescu, observăm că personajul descris (tatăl reginei) își extrage noblețea sufletească din " },
+      { "type": "select", "options": ["averile acumulate recent", "descendența sa dintr-un neam străvechi", "disprețul față de trecut", "puterea sa politică"], "correct": 1 },
+      { "type": "text", "value": ". Deși strămoșii săi s-au distins prin fapte de vitejie, el a ales să ducă mai departe acest parfum al valorilor prin " },
+      { "type": "select", "options": ["luptă armată", "domeniul gândirii și al purității sufletești", "izolare totală", "acumulare de titluri"], "correct": 1 },
+      { "type": "text", "value": ". Astfel, rădăcinile nu sunt simple date istorice, ci o sursă de energie morală care modelează caracterul prezent.\n\n&nbsp;&nbsp;&nbsp;&nbsp;În al doilea rând, în plan personal și cultural, conștiința apartenenței la o familie cu o anumită istorie oferă un model de conduită. Atunci când individul înțelege sacrificiile sau valorile înaintașilor săi, acesta tinde să acționeze cu o mai mare " },
+      { "type": "select", "options": ["iresponsabilitate", "mândrie și responsabilitate față de nume", "indiferență față de tradiție", "ură față de propria origine"], "correct": 1 },
+      { "type": "text", "value": ". Moștenirea spirituală funcționează ca o busolă într-o lume aflată în continuă schimbare.\n\n&nbsp;&nbsp;&nbsp;&nbsp;În concluzie, legătura cu trecutul familial este " },
+      { "type": "select", "options": ["o barieră în calea succesului", "o resursă constructivă", "o invenție fără utilitate", "doar o curiozitate genealogică"], "correct": 1 },
+      { "type": "text", "value": ", deoarece oferă stabilitate și demnitate ființei umane." }
+    ]
+  },
+  "subject_2": {
+    "title": "SUBIECTUL al II-lea (10 puncte)",
+    "text_support": "Lucian Blaga, 'Cresc amintirile'",
+    "content": [
+      { "type": "text", "value": "&nbsp;&nbsp;&nbsp;&nbsp;În poezia 'Cresc amintirile' de Lucian Blaga, relația dintre ideea poetică și mijloacele artistice evidențiază " },
+      { "type": "select", "options": ["trecerea timpului și amplificarea trăirilor", "lipsa de sentimente", "ura față de natură", "uitarea totală"], "correct": 0 },
+      { "type": "text", "value": ". Tema centrală este amintirea care se dezvoltă organic în timp, asemenea unui copac. Metafora centrală a " },
+      { "type": "select", "options": ["râului care curge", "numelui crestat în scoarță", "soarelui de amurg", "florilor de câmp"], "correct": 1 },
+      { "type": "text", "value": " sugerează că sentimentele inocente devin 'adânci și uriașe' odată cu trecerea anilor. Comparația 'ca un ștrengar' subliniază caracterul " },
+      { "type": "select", "options": ["serios", "ludic și spontan", "tragic", "agresiv"], "correct": 1 },
+      { "type": "text", "value": " al gestului inițial al iubirii." }
+    ]
+  },
+  "subject_3": {
+    "title": "SUBIECTUL al III-lea (30 de puncte) - Eseu Structurat",
+    "instruction": "Redactează un eseu de minimum 400 de cuvinte, în care să prezinți particularități de construcție a unui personaj dintr-un text narativ studiat, aparținând lui Mihail Sadoveanu.",
+    "content": [
+      { "type": "text", "value": "&nbsp;&nbsp;&nbsp;&nbsp;Un personaj reprezentativ pentru universul epic al lui " },
+      { "type": "select", "options": ["Ioan Slavici", "Mihail Sadoveanu", "Liviu Rebreanu", "Camil Petrescu"], "correct": 1 },
+      { "type": "text", "value": " este Vitoria Lipan din romanul 'Baltagul', publicat în " },
+      { "type": "select", "options": ["1881", "1930", "1920", "1950"], "correct": 1 },
+      { "type": "text", "value": ". Aceasta este un personaj " },
+      { "type": "select", "options": ["episodic", "complex, exponențial pentru lumea muntenilor", "secundar", "negativ"], "correct": 1 },
+      { "type": "text", "value": ", care întruchipează datoria de a restabili dreptatea.\n\n&nbsp;&nbsp;&nbsp;&nbsp;Statutul ei moral este definit de credința în semne și tradiție. Un episod relevant pentru construcția personajului este " },
+      { "type": "select", "options": ["plecarea la București", "perioada de așteptare și visul cu Nechifor Lipan", "întâlnirea cu un boier", "participarea la război"], "correct": 1 },
+      { "type": "text", "value": ". Visul în care soțul ei apare trecând o apă neagră declanșează hotărârea eroinei de a pleca în căutarea acestuia.\n\n&nbsp;&nbsp;&nbsp;&nbsp;O altă secvență semnificativă este cea a " },
+      { "type": "select", "options": ["nuntii fiicei sale", "praznicului de după găsirea osemintelor", "plecării lui Gheorghiță la școală", "întâlnirii cu jandarmii"], "correct": 1 },
+      { "type": "text", "value": ", unde Vitoria dă dovadă de o inteligență superioară, reconstituind crima și forțându-i pe ucigași să se deconste. Aceasta utilizează " },
+      { "type": "select", "options": ["forța fizică", "diplomația și interogația socratică", "magia neagră", "indiferența"], "correct": 1 },
+      { "type": "text", "value": " pentru a-i demasca pe Calistrat Bogza și Ilie Cuțui.\n\n&nbsp;&nbsp;&nbsp;&nbsp;În concluzie, Vitoria Lipan rămâne un 'Hamlet feminin' al literaturii române, fiind un personaj de o forță morală și psihologică deosebită." }
+    ]
+  }
+}
