@@ -1,0 +1,16 @@
+{
+    "id": "ist_online_01",
+    "title": "Istorie - Test Online 01 (Statul Român Modern)",
+    "subject_1": {
+        "title": "Subiectul I - Proiecte politice",
+        "text_support": "Fragment despre Revoluția de la 1848 și formarea statului modern...",
+        "questions": [
+            {
+                "id": "ist1",
+                "text": "Care a fost principalul proiect politic discutat în 1848?",
+                "options": ["Marea Unire", "Unirea Principatelor", "Independența totală", "Instaurarea monarhiei"],
+                "correct": 1
+            }
+        ]
+    }
+}
