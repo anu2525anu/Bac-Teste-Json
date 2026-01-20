@@ -1,0 +1,265 @@
+{
+    "id": "rom_online_01",
+    "title": "Română - Test Online 01",
+    "subject_1": {
+        "title": "SUBIECTUL I - Partea A",
+        "text_support": "Casa noastră din vale, ascunsă în malul verde al unei grădini cu flori, ca dintr-o cușcă de sufleur, privea teatrala desfăşurare a nopții. Sondele îşi aprinseseră pe frunți luminile electrice, ca niște regine încoronate cu briliante orbitoare. Cerul vibra de miile de lumini ale stelelor, mişcătoare în dansul constelațiilor aprinse. [...] Dar bucuriile tatei sunt ale lui\", iar pe ale mele el încearcă să le domolească, prin logica cuminte a creatorului. Îmi spune că tinerețea e mai frumoasă în puritatea învăţăturii, decât în oboseala grijilor de familie... Destinul omului e în mâinile lui. Un tovarăș de viață poate să fie un protector și un prieten, dar nu merită să fie ales, decât când poate deveni şi unul şi altul... Vreau să te știu fericită. Te îmbrățișez cu vechea mea încredere. Papa.\"\nMama e o minunată jucărie japoneză. E mică. Are părul ca smoala, pe care și-l piaptănă cu rulou deasupra frunții ei, mari și bombate. Ochii verzi, pe care mi i-a dat și mie, au irizări de ape şi de cristal. I se văd amândouă rândurile de dinți; fiindcă râde cu buzele deschise, deasupra celor două şiraguri de clape gemene, strălucitor de albe. E prietena noastră cea mai bună, cea mai statornică și o invidiez pe sora mea Cécile, care nu s-a despărţit niciodată de mama. Mama a fost cea dintâi care a primit mărturisirea proiectului meu și a avut un singur protest să-mi facă: „Mi-ar fi plăcut să se mărite întâi Cécile, sora voastră cea mare\". Mama ţine foarte mult la ierarhia dintre surori și susține cu toată ardoare dreptul primului născut. Ea însă nu are o voință încăpăţânată şi principiile ei cedează la argumentele tinereții mele. Ceva și mai mult, evenimentul ăsta o hotărăşte să se întoarcă definitiv la Bucureşti. Ştie că n-aş fi o bună gospodină, și prezența ei ar rezolva mai uşor problema de stat a căminului meu de mâine. Eram numai mulțumită. Acum voi fi fericită. Mama va fi lângă mine. Se va întoarce în oraşul ei iubit.",
+        "questions": [
+            {
+                "id": "Q1",
+                "text": "Indică sensul din text al secvenței „părul ca smoala” și al cuvântului „să domolească”.",
+                "options": [
+                    "Secvența indică un păr de un negru intens, iar cuvântul se referă la acțiunea de a potoli un entuziasm.",
+                    "Secvența descrie un păr murdar și lipicios, iar cuvântul se referă la ignorarea unei situații.",
+                    "Secvența sugerează un păr deschis la culoare, iar cuvântul se referă la amânarea unei decizii.",
+                    "Secvența se referă la un păr foarte lung și bogat, iar cuvântul sugerează distrugerea unui plan."
+                ],
+                "correct": 0
+            },
+            {
+                "id": "Q2",
+                "text": "Menționează numele surorii autoarei, utilizând informaţiile din textul dat.",
+                "options": [
+                    "Sora autoarei, care nu s-a despărțit niciodată de mama sa, se numește Cécile.",
+                    "Sora autoarei, menționată ca fiind cea mai mare dintre fete, se numește Cecilia.",
+                    "Sora autoarei, care urma să se mărite înaintea ei, se numește Cécilia.",
+                    "Sora autoarei, care locuia deja în București, se numește Cecile."
+                ],
+                "correct": 0
+            },
+            {
+                "id": "Q3",
+                "text": "Precizează amplasarea casei părinteşti a autoarei, justificându-ţi răspunsul cu o secvenţă din text.",
+                "options": [
+                    "Casa este situată într-o zonă de vale, fiind descrisă ca fiind „ascunsă în malul verde al unei grădini cu flori”.",
+                    "Casa este amplasată pe un deal înalt, lângă sonde, fiind comparată cu o „cușcă de sufleur”.",
+                    "Casa se află la marginea orașului București, justificarea fiind dorința mamei de a se întoarce acolo.",
+                    "Casa este situată lângă un teatru, fapt sugerat de metafora „teatrala desfăşurare a nopții”."
+                ],
+                "correct": 0
+            },
+            {
+                "id": "Q4",
+                "text": "Explică motivul pentru care mama autoarei îi face un singur protest.",
+                "options": [
+                    "Mama protestează deoarece consideră că ordinea căsătoriilor trebuie să respecte ierarhia vârstelor dintre surori.",
+                    "Mama protestează pentru că nu are încredere în viitorul logodnic și în capacitățile lui de protector.",
+                    "Mama protestează deoarece nu dorește să părăsească grădina cu flori pentru a se muta la oraș.",
+                    "Mama protestează pentru că fiica sa a ales să urmeze calea picturii în detrimentul gospodăriei."
+                ],
+                "correct": 0
+            },
+            {
+                "id": "Q5",
+                "text": "Prezintă relația autoarei cu mama sa, așa cum reiese din text.",
+                "options": [
+                    "Relația este una de profundă prietenie și sprijin, mama fiind gata să își sacrifice confortul pentru fericirea fiicei.",
+                    "Relația este marcată de conflicte legate de autoritate, mama impunându-și voința încăpățânată în fața fiicei.",
+                    "Relația este una distantă, autoarea preferând să se confeseze tatălui, pe care îl numește afectuos Papa.",
+                    "Relația se bazează pe o competiție tacită între surori pentru a câștiga atenția și favorurile mamei."
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    "subject_1_b": {
+        "title": "SUBIECTUL I - B (Argumentare)",
+        "instruction": "Redactează un text de minimum 150 de cuvinte în care să argumentezi dacă părerea părinților ar trebui să influenţeze sau nu tinerii în alegerea partenerului de viață.",
+        "content": [
+            {
+                "type": "text",
+                "value": "În opinia mea, influența părinților în alegerea partenerului de viață este un factor esențial de echilibru, deoarece aceștia oferă o perspectivă bazată pe "
+            },
+            {
+                "type": "select",
+                "options": [
+                    "logica cuminte a creatorului",
+                    "experiența aspră a vieții",
+                    "subiectivitatea afectivă a familiei"
+                ],
+                "correct": 0
+            },
+            {
+                "type": "text",
+                "value": ", asigurând astfel o viziune matură asupra viitorului cuplu. În primul rând, părinții pot identifica valori morale fundamentale pe care tinerii, adesea dominați de entuziasm, le pot trece cu vederea. În textul suport, tatăl autoarei subliniază că un tovarăș de viață merită ales doar dacă poate fi, în mod simultan, un "
+            },
+            {
+                "type": "select",
+                "options": [
+                    "protector și un prieten",
+                    "sfătuitor și un critic",
+                    "sprijin financiar și un martor"
+                ],
+                "correct": 0
+            },
+            {
+                "type": "text",
+                "value": ". Acest sfat urmărește fericirea pe termen lung, nu doar atracția de moment. În al doilea rând, susținerea părinților aduce o stabilitate practică indispensabilă. Mama autoarei, deși inițial reticentă din cauza "
+            },
+            {
+                "type": "select",
+                "options": [
+                    "ierarhiei dintre surori",
+                    "lipsei de avere a logodnicului",
+                    "diferenței de vârstă"
+                ],
+                "correct": 0
+            },
+            {
+                "type": "text",
+                "value": ", alege să își susțină fiica prin prezența sa, rezolvând astfel ceea ce autoarea numește "
+            },
+            {
+                "type": "select",
+                "options": [
+                    "problema de stat a căminului",
+                    "problema de statut a familiei",
+                    "situația financiară dificilă"
+                ],
+                "correct": 0
+            },
+            {
+                "type": "text",
+                "value": ". În concluzie, implicarea părinților nu trebuie privită ca o constrângere, ci ca o certitudine a reușitei, transformând experiența generațiilor trecute într-un ghid pentru fericirea prezentă a tinerilor."
+            }
+        ]
+    },
+    "subject_2": {
+        "title": "SUBIECTUL II",
+        "instruction": "Prezintă, în minimum 50 de cuvinte, rolul notațiilor autorului în fragmentul din piesa „Danton” de Camil Petrescu.",
+        "text_support": "Fragmentul prezintă scena din Sala Convenției (10 martie 1793). Danton urcă la tribună. (Liniște încremenită). Danton vorbește (grav, răspicat la început, apoi se încălzește): „Libertatea nu se cucerește cu mănuși de catifea!”. (Gest brusc spre tribună).",
+        "content": [
+            {
+                "type": "text",
+                "value": "Notațiile autorului în acest fragment au rolul de a fixa cadrul "
+            },
+            {
+                "type": "select",
+                "options": [
+                    "spațio-temporal al acțiunii",
+                    "social-politic al epocii",
+                    "mitic al personajelor"
+                ],
+                "correct": 0
+            },
+            {
+                "type": "text",
+                "value": " și de a ghida jocul actoricesc. Atmosfera de tensiune extremă este sugerată prin sintagma "
+            },
+            {
+                "type": "select",
+                "options": [
+                    "liniște încremenită",
+                    "sală joasă și întunecată",
+                    "lume agitată"
+                ],
+                "correct": 0
+            },
+            {
+                "type": "text",
+                "value": ", care pregătește discursul personajului. Didascaliile surprind și evoluția trăirilor protagonistului, acesta vorbind inițial grav, pentru ca ulterior să se încălzească, culminând cu imaginea unui om cu "
+            },
+            {
+                "type": "select",
+                "options": [
+                    "suflet greu ca și fizicul",
+                    "gesturi teatrale inutile",
+                    "voință distrusă"
+                ],
+                "correct": 0
+            },
+            {
+                "type": "text",
+                "value": ". Astfel, indicațiile scenice transformă textul într-un tablou viu al frământărilor interioare ale eroului."
+            }
+        ]
+    },
+    "subject_3": {
+        "title": "SUBIECTUL III (Eseu)",
+        "instruction": "Redactează un eseu de minimum 400 de cuvinte despre particularitățile unei nuvele psihologice studiate (Moara cu noroc de Ioan Slavici).",
+        "content": [
+            {
+                "type": "text",
+                "value": "Nuvela psihologică 'Moara cu noroc' de Ioan Slavici reprezintă o capodoperă a realismului clasic, concentrându-se pe procesul de "
+            },
+            {
+                "type": "select",
+                "options": [
+                    "dezumanizare a protagonistului",
+                    "maturizare a personajului secundar",
+                    "îmbogățire cinstită a familiei"
+                ],
+                "correct": 0
+            },
+            {
+                "type": "text",
+                "value": " sub presiunea ispitei banului. O primă trăsătură realistă este perspectiva narativă "
+            },
+            {
+                "type": "select",
+                "options": [
+                    "obiectivă și detașată",
+                    "subiectivă și implicată",
+                    "limitată la un singur personaj"
+                ],
+                "correct": 0
+            },
+            {
+                "type": "text",
+                "value": ", care oferă o viziune veridică asupra societății ardelenești. Tema centrală este influența nefastă a averii, ilustrată prin destinul lui Ghiță. Un episod relevant este prima întâlnire cu Lică Sămădăul, în care acesta își impune autoritatea prin "
+            },
+            {
+                "type": "select",
+                "options": [
+                    "cinism și forță",
+                    "bunăvoință și daruri",
+                    "inteligență diplomatică"
+                ],
+                "correct": 0
+            },
+            {
+                "type": "text",
+                "value": ". Ghiță acceptă parteneriatul periculos, marcând începutul declinului moral. Un al doilea moment cheie este scena procesului, unde Ghiță depune "
+            },
+            {
+                "type": "select",
+                "options": [
+                    "jurământ strâmb",
+                    "mărturie completă",
+                    "denunț curajos"
+                ],
+                "correct": 0
+            },
+            {
+                "type": "text",
+                "value": ", pierzându-și astfel ultima fărâmă de onoare. Conflictul central este unul "
+            },
+            {
+                "type": "select",
+                "options": [
+                    "interior, de conștiință",
+                    "exterior, de natură politică",
+                    "militar, între jandarmi și porcari"
+                ],
+                "correct": 0
+            },
+            {
+                "type": "text",
+                "value": ", desfășurat între dorința de a rămâne cinstit și setea de avere. Structura operei este una "
+            },
+            {
+                "type": "select",
+                "options": [
+                    "circulară, cu rol moralizator",
+                    "liniară, fără final clar",
+                    "fragmentată cronologic"
+                ],
+                "correct": 0
+            },
+            {
+                "type": "text",
+                "value": ", fiind pusă sub semnul cuvintelor bătrânei care avertizează că liniștea colibei este mai importantă decât bogăția. În concluzie, prin analiza psihologică și tehnica detaliului, Slavici demonstrează că nicio avere nu poate compensa pierderea demnității, finalul purificator prin foc sugerând restabilirea ordinii morale."
+            }
+        ]
+    }
+}
